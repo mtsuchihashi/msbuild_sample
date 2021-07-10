@@ -1,5 +1,5 @@
 <#
-ƒpƒ`ƒ‚ƒ“Make
+	Fake-Make
 #>
 
 $backup = $env:Path
